@@ -2,14 +2,15 @@ This project uses spatio-temporal and demographic data to predict which category
 
 ### Dataset
 The dataset contains incidents derived from Atlanta Metropolis Crime Incident Reporting system.
-|Feature | Description|
+
+|Feature|Description
 | ------------- |:-------------:|
-|incident datetime | time and the date that an incident happened.|
-|incident cord x |x-coordinate of the location that the incident happened.|
-|incident cord y |y-coordinate of the location that the incident happened.|
-|num victims |Number of victims in the incident|
-|location type |Type of location the incident happened, correspond to different points such as residential, roads, public etc|
-|Crime Type |Type of the crime that took place|
+|incident datetime | time and the date that an incident happened.
+|incident cord x |x-coordinate of the location that the incident happened.
+|incident cord y |y-coordinate of the location that the incident happened.
+|num victims |Number of victims in the incident
+|location type |Type of location the incident happened, correspond to different points such as residential, roads, public etc
+|Crime Type |Type of the crime that took place
 
 ***
 ## [Data Pre-processing](https://github.com/siddhantmaharana/atlanta-crime-prediction/blob/master/Data_Preprocessing.ipynb) 
